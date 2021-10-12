@@ -6,7 +6,7 @@ pipeline{
   stages{
     stage("Stage1"){
       steps{
-      echo "I LIVE!"
+      echo "I LIVE! REBORN!!!"
       }
     }
   }
